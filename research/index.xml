@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Large-scale Research on NeuroLaws Foundation. We fight against covert neural interfaces.</title><link>/research/</link><description>NeuroLaws Foundation. We fight against covert neural interfaces. (Large-scale Research)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="/research/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | NeuroLaws Foundation</title>
+    <link>https://neurolaws.org/research/</link>
+    <description>Fighting illegal and abusive neural technologies worldwide.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://neurolaws.org/research/index.xml" rel="self" type="application/rss+xml"/>
+  </channel>
+</rss>
